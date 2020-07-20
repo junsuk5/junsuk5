@@ -2,6 +2,8 @@
 
 교육하고 책 쓰는 개발자 오준석입니다.
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=Junsuk5&fbclid=IwAR2RkwvLMFIN1b5d2xJd9r5Yk4AJ2CueLr9QwXvOHkT4FgcBudkwG2NznNE)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 저서
 - 플러터 생존코딩
 - 안드로이드 생존코딩 코틀린편
