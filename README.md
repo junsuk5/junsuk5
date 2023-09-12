@@ -1,6 +1,12 @@
-교육하고 책 쓰는 개발자 오준석입니다.
+교육하고 책 쓰는 개발자 생존코딩 오준석입니다.
 
-[![test](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuk5&layout=compact)](https://github.com/junsuk5?tab=repositories)
+**프로그래밍 멘토**
+
+개발 경력 15+🖥, 교육 경력 10+📖
+
+👇Android, Flutter 강의, 튜토리얼👇
+
+[survivalcoding.com](https://survivalcoding.com/)
 
 ## 저서
 
@@ -16,3 +22,7 @@
 |---|---|---|
 |<img src="https://github.com/junsuk5/junsuk5/assets/7101560/d1436e7d-024c-44c5-9173-e63edb23b38d" width="60"/>|[알리미프로](https://alimipro.com/)|학원 등하원 알림 서비스|
 |<img src="https://github.com/junsuk5/junsuk5/assets/7101560/8e6460b2-9514-49e1-a727-74d62c707dc2" width="60"/>|[Quick Memo](https://play.google.com/store/apps/details?id=com.jsoh.drawmemo)|화면에 손글씨를 쓰고 공유하는 앱 (Android)|
+
+더 많은 [이력](https://www.notion.so/087c93d2c3ad41ff9b46c434239cd310?pvs=4)..
+
+[![test](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuk5&layout=compact)](https://github.com/junsuk5?tab=repositories)
