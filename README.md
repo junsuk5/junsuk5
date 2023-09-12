@@ -1,13 +1,14 @@
 교육하고 책 쓰는 개발자 오준석입니다.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Junsuk5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![test](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuk5&layout=compact)](https://github.com/junsuk5?tab=repositories)
 
 ## 저서
-- 플러터 생존코딩 (한빛미디어, 2020 세종도서 선정)
-- 안드로이드 생존코딩 코틀린편 (한빛미디어)
-- 될 때까지 안드로이드 (루비페이퍼, 2018 세종도서 선정)
+
+| |제목|설명|
+|---|---|---|
+|<img src="https://github.com/junsuk5/junsuk5/assets/7101560/5a08b03c-1ca8-43bd-915b-ebd6ab1835e1" width="60"/>|[플러터 생존코딩](https://www.yes24.com/Product/Goods/101819249)| 한빛미디어, 2020 세종도서 선정, 2판|
+|<img src="https://github.com/junsuk5/junsuk5/assets/7101560/35bfdb6a-2b23-4050-be80-60b1663c77bc" width="60"/>|[안드로이드 생존코딩 코틀린편](https://www.yes24.com/Product/Goods/105523818)| 한빛미디어, 개정 2판|
+|<img src="https://github.com/junsuk5/junsuk5/assets/7101560/624f4d04-92f5-4238-8641-b5fd99345dc8" width="60"/>|[될 때까지 안드로이드](https://www.yes24.com/Product/Goods/59298937) |루비페이퍼, 2018 세종도서 선정|
 
 ## 개인 프로젝트
 
