@@ -25,4 +25,5 @@
 
 더 많은 [이력](https://www.notion.so/087c93d2c3ad41ff9b46c434239cd310?pvs=4)..
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=Junsuk5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![test](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuk5&layout=compact)](https://github.com/junsuk5?tab=repositories)
