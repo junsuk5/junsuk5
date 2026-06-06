@@ -25,8 +25,6 @@
 
 더 많은 [이력](https://www.notion.so/087c93d2c3ad41ff9b46c434239cd310?pvs=4)..
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Junsuk5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Stats 
 
-[![test](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuk5&langs_count=3)](https://github.com/junsuk5?tab=repositories)
-
-[![Check out junsuk5's profile on stardev.io](https://stardev.io/developers/junsuk5/badge/languages/locality.svg)](https://stardev.io/developers/junsuk5)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junsuk5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
